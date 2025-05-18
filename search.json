@@ -16,9 +16,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "¡Hola! Soy [Tu Nombre]",
+    "title": "¡Hola! Soy Danna Cruz-Reyes",
     "section": "",
-    "text": "Bienvenido a mi sitio web donde comparto mis ilustraciones, materiales educativos, y proyectos en ciencia de datos.\nExplora las secciones para conocer más."
+    "text": "&lt;p&gt;Soy doctora en Estadística por la &lt;strong&gt;Universidade Federal de Minas Gerais (UFMG)&lt;/strong&gt; y egresada del pregrado en Matemáticas de la &lt;strong&gt;Universidad Distrital Francisco José de Caldas&lt;/strong&gt;.&lt;/p&gt;\n\n&lt;p&gt;Actualmente investigo nuevos modelos espaciales para datos areales, con énfasis en estructuras de dependencia complejas mediante grafos aleatorios con pesos en las aristas. Trabajo en colaboración con &lt;strong&gt;Renato Assunção&lt;/strong&gt; y &lt;strong&gt;Rosângela Loschi&lt;/strong&gt;, desarrollando un modelo que supera limitaciones de los modelos CAR clásicos, permitiendo mayor correlación espacial entre áreas.&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html#investigación-actual",
+    "href": "index.html#investigación-actual",
+    "title": "¡Hola! Soy Danna Cruz-Reyes",
+    "section": "💻 Investigación actual",
+    "text": "💻 Investigación actual\n\nInducing High Spatial Correlation with Randomly Edge-Weighted Neighborhood Graphs\n\nDanna L. Cruz-Reyes, Renato M. Assunção, Rosângela H. Loschi\nEn este trabajo proponemos un modelo basado en una distribución Normal/Independiente multivariada para representar efectos espaciales con correlaciones altas entre áreas vecinas. El modelo se ajusta bien a mapas reales de cáncer y supera a varios modelos tradicionales en rendimiento."
+  },
+  {
+    "objectID": "index.html#sobre-mí",
+    "href": "index.html#sobre-mí",
+    "title": "¡Hola! Soy Danna Cruz-Reyes",
+    "section": "🐶 Sobre mí",
+    "text": "🐶 Sobre mí\n\n\n\nMi compañera de investigación más fiel: Cantelli 🐾 — sí, como el lema de Borel-Cantelli."
+  },
+  {
+    "objectID": "index.html#objetivo-del-sitio",
+    "href": "index.html#objetivo-del-sitio",
+    "title": "¡Hola! Soy Danna Cruz-Reyes",
+    "section": "🎯 Objetivo del sitio",
+    "text": "🎯 Objetivo del sitio\nEste sitio recopila mis materiales educativos, ilustraciones estadísticas, y proyectos actuales.\n¡Explora el menú para conocer más sobre mi trabajo, publicaciones, y recursos para estudiantes!"
   },
   {
     "objectID": "contacto.html",
