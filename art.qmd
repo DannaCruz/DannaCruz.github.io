@@ -1,0 +1,11 @@
+---
+title: "Ilustraciones"
+format: html
+---
+
+## Mis dibujos y visualizaciones
+
+Aquí encontrarás una selección de ilustraciones relacionadas con ciencia de datos y estadística.
+
+![](img/ilustracion1.png)
+*Ilustración 1 - El mundo de los datos*

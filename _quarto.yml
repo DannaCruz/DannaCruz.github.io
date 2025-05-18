@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mi sitio creativo"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Sobre mí"
+        href: about.qmd
+      - text: "Ilustraciones"
+        href: art.qmd
+      - text: "Contacto"
+        href: contacto.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true

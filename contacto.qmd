@@ -1,0 +1,10 @@
+---
+title: "Contacto"
+format: html
+---
+
+Puedes contactarme por:
+
+- Email: tuemail@example.com
+- Twitter: [@tuusuario](https://twitter.com/tuusuario)
+- GitHub: [tuusuario](https://github.com/tuusuario)

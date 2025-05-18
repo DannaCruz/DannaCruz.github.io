@@ -1,0 +1,9 @@
+---
+title: "Sobre mí"
+format: html
+---
+
+Soy docente/investigadora con pasión por el arte, la enseñanza, y la estadística. Me encanta combinar ilustración con conceptos abstractos para hacerlos más accesibles.
+
+- 💼 Profesora en [tu institución]
+- 🧠 Interés en: estadística bayesiana, aprendizaje visual, ciencia reproducible

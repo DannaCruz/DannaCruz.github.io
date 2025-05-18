@@ -1,0 +1,11 @@
+---
+title: "¡Hola! Soy [Tu Nombre]"
+format: html
+---
+
+![](img/danna.jpeg)
+
+![](img/cantelli.jpg)
+Bienvenido a mi sitio web donde comparto mis ilustraciones, materiales educativos, y proyectos en ciencia de datos.
+
+Explora las secciones para conocer más.
