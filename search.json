@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Sobre mí",
+    "objectID": "bayesiana/index.html",
+    "href": "bayesiana/index.html",
+    "title": "Curso de Estadística Bayesiana",
     "section": "",
-    "text": "Soy docente e investigadora del Departamento de Estadística de la Universidad Nacional de Colombia, apasionada por la enseñanza, el arte y la estadística como lenguaje para entender el mundo.\nMi trabajo integra enfoques bayesianos, modelos espaciales y visualización estadística. Disfruto conectar teoría con aplicaciones reales y pedagógicas.\n\nÁreas de interés:\n\n📊 Estadística bayesiana\n🗺️ Modelos espaciales y jerárquicos\n🎨 Visualización e ilustración estadística\n👩‍🎓 Educación en ciencia de datos y estadística\n🤖 Métodos computacionales reproducibles\n\n\n\n\nMi compañera de investigación más fiel: Cantelli 🐾 — sí, como el lema de Borel-Cantelli."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "¡Hola! Soy Danna Cruz-Reyes",
-    "section": "",
-    "text": "Soy doctora en Estadística por la Universidade Federal de Minas Gerais (UFMG) y egresada del pregrado en Matemáticas de la Universidad Distrital Francisco José de Caldas.\nActualmente investigo nuevos modelos espaciales para datos espaciales, con énfasis en estructuras de dependencia complejas mediante grafos aleatorios con pesos en las aristas. Trabajo en colaboración con Renato Assunção y Rosângela Loschi, desarrollando un modelo que supera limitaciones de los modelos CAR clásicos, permitiendo mayor correlación espacial entre áreas.\n\n\n\n\nEste sitio recopila mis materiales educativos, ilustraciones estadísticas, y proyectos actuales.\n¡Explora el menú para conocer más sobre mi trabajo, publicaciones, y recursos para estudiantes!\nPuedes contactarme por:\n\nEmail: dlcruzr@unal.edu.co"
+    "text": "Aprende cómo la inferencia cambia cuando incorporamos creencias previas.\n\n\n\n\n🧠 Cómo trabajar con este tutorial\nA lo largo del curso encontrarás ejemplos de código, ejercicios interactivos y preguntas de reflexión.\nEstos ejemplos asumen conocimientos básicos de R, como funciones, argumentos y el operador pipe (|&gt; o %&gt;%).\nNo necesitas tener instalado R o RStudio para ejecutar el código: ¡todo ocurre directamente en tu navegador! ✨\n\nCURSO COMPLETO: Tutoriales en Posit cloud (libre y abierto)\n\n\n\n\n\n\nTip\n\n\n\n🎓 Esta aplicación te guía paso a paso en el análisis bayesiano. Incluye menús interactivos, teoría y ejercicios.\n👉 Recomendación: abre la app en pantalla completa para una mejor experiencia.\n\n\n\nExplorar App\n\n\n\n\n\n\n\n\n\n\n🔍 Aplicaciones Interactivas (Una muestra de mis tutoriales)\n\nPrioriPredictivaBernoulli-BetaExponencial"
   },
   {
     "objectID": "investigacion.html",
     "href": "investigacion.html",
     "title": "Investigación",
     "section": "",
-    "text": "Inducing High Spatial Correlation with Randomly Edge-Weighted Neighborhood Graphs\n\nDanna L. Cruz-Reyes, Renato M. Assunção, Rosângela H. Loschi\nEn este trabajo proponemos un modelo basado en una distribución Normal/Independiente multivariada para representar efectos espaciales con correlaciones altas entre áreas vecinas. El modelo se ajusta bien a mapas reales de cáncer y supera a varios modelos tradicionales en rendimiento."
+    "text": "🚀 Producción Académica Reciente\n\n\n 📖 Ver perfil completo en Google Scholar \n\n\n\n⭐ Inducing High Spatial Correlation with Randomly Edge-Weighted Neighborhood Graphs\nDanna L. Cruz-Reyes, Renato M. Assunção, Rosângela H. Loschi\nBayesian Analysis, 18(4), 1247–1281, 2023\n📌 DOI: 10.1214/23-BA1390\n📖 Este artículo introduce un nuevo modelo espacial con correlaciones más altas mediante grafos con pesos aleatorios en bordes.\n\n\n\n🧩 Handling Categorical Features with Many Levels Using a Product Partition Model\nT.L. Criscuolo, R.M. Assunção, R.H. Loschi, W. Meira Jr., D. Cruz-Reyes\nThe Annals of Applied Statistics, 17(1), 786–814, 2023\n📌 Ver artículo\n📖 Propuesta bayesiana para manejar variables categóricas con muchos niveles mediante modelos de partición de productos.\n\n\n\n👁️‍🗨️ The Global Epidemiology of Scleritis: A Systematic Review and Meta-analysis\nC. Cifuentes-González, G. Mejía-Salgado, W. Rojas-Carabali, D. Cruz-Reyes, et al.\nAmerican Journal of Ophthalmology, 273, 13–32, 2025\n\n\n\n🔍 Colombian Ocular Diseases Epidemiology Study (CODES): Glaucoma Incidence and Sociodemographic Characterisation 2015–2020\nC. Cifuentes-González, W. Rojas-Carabali, G. Mejía Salgado, D. Cruz-Reyes, et al.\nClinical and Experimental Optometry, 2024\n\n\n\n👓 CODES: Refractive Errors in Colombian Eye Care Consultations\nG. Mejía-Salgado, C. Cifuentes-González, D. L. Cruz-Reyes, et al.\nOphthalmic Epidemiology, 2024\n\n\n\n👁️ CODES: Vision Impairment in Colombia (2015–2019)\nG. Mejía-Salgado, C. Cifuentes-González, D. L. Cruz-Reyes, et al.\nOphthalmic Epidemiology, 2024\n\n\n\n🔬 COIDES: Optic Neuritis Incidence in Colombia (2015–2020)\nC. A. Rodríguez-Rodríguez, C. Cifuentes-González, D. L. Cruz-Reyes, et al.\nOcular Immunology and Inflammation, 32(8), 1749–1754, 2024\n\n\n\n🧠 Uveitic Glaucoma: Multicentric Study in Bogotá\nW. Rojas-Carabali, G. Mejía-Salgado, D. L. Cruz-Reyes, et al.\nEye, 38, 714–722, 2024\n\n\n\n🏥 Perioperative Mortality in Colombia: Lancet Commission on Global Surgery\nC. J. Pérez-Rivera, N. Lozano-Suárez, A. Velandia-Sánchez, D. L. Cruz-Reyes, et al.\nBMJ Open, 12(11), e063182, 2022\n📌 Ver artículo en PubMed Central\n\n\nÚltima actualización: ?meta:date"
+  },
+  {
+    "objectID": "probabilidad/index.html",
+    "href": "probabilidad/index.html",
+    "title": "Curso de Probabilidad",
+    "section": "",
+    "text": "🎲 Curso de Probabilidad\nExplora eventos, espacios muestrales y variables aleatorias.\n\n\n\n\nCómo trabajar con este tutorial\nA lo largo del curso encontrarás ejemplos de código, ejercicios interactivos y preguntas de reflexión.\nEstos ejemplos asumen conocimientos básicos de R, como funciones, argumentos y el operador pipe (|&gt; o %&gt;%).\nNo necesitas tener instalado R o RStudio para ejecutar el código: ¡todo ocurre directamente en tu navegador! ✨\n\n\n\n\nCURSO COMPLETO: Tutoriales en Posit cloud (libre y abierto)\n\n\n\n\n\n\nTip\n\n\n\n🎓 Esta aplicación te guía paso a paso en los conceptos básicos de probabilidad y estadística. Incluye menús interactivos, teoría y ejercicios.\n👉 Recomendación: abre la app en pantalla completa para una mejor experiencia.\n\n\n\nExplorar App\n\n\n\n\n\n\n\n\n\n\n🔍 Aplicaciones Interactivas (Una muestra de mis tutoriales)\n\nDescriptivasPruebas de hipótesisRegresión"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Danna L. Cruz Reyes",
+    "section": "",
+    "text": "Soy doctora en Estadística por la Universidade Federal de Minas Gerais (UFMG) y egresada del pregrado en Matemáticas de la Universidad Distrital Francisco José de Caldas.\nActualmente investigo nuevos modelos espaciales para datos espaciales, con énfasis en estructuras de dependencia complejas mediante grafos aleatorios con pesos en las aristas. Trabajo en colaboración con Renato Assunção y Rosângela Loschi, desarrollando un modelo que supera limitaciones de los modelos CAR clásicos, permitiendo mayor correlación espacial entre áreas.\n\n\n\n\nEste sitio recopila mis materiales educativos, ilustraciones estadísticas, y proyectos actuales.\n¡Explora el menú para conocer más sobre mi trabajo, publicaciones, y recursos para estudiantes!\nPuedes contactarme por:\n\nEmail: dlcruzr@unal.edu.co"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy docente e investigadora del Departamento de Estadística de la Universidad Nacional de Colombia, apasionada por la enseñanza, el arte y la estadística como lenguaje para entender el mundo.\nMi trabajo integra enfoques bayesianos, modelos espaciales y visualización estadística. Disfruto conectar teoría con aplicaciones reales y pedagógicas.\n\nÁreas de interés:\n\n📊 Estadística bayesiana\n🗺️ Modelos espaciales y jerárquicos\n🎨 Visualización e ilustración estadística\n👩‍🎓 Educación en ciencia de datos y estadística\n🤖 Métodos computacionales reproducibles\n\n\n\n\nMi compañera de investigación más fiel: Cantelli 🐾 — sí, como el lema de Borel-Cantelli."
   }
 ]

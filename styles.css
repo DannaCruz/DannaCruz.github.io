@@ -1,0 +1,83 @@
+
+/* Fondo blanco y tipografía agradable */
+body {
+  background-color: #ffffff;
+  font-family: "Open Sans", "Segoe UI", sans-serif;
+  color: #444;
+}
+
+/* Títulos coloridos pero con fuente heredada del body */
+
+h1 {
+  color: teal;
+  font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+  color: teal;
+  font-family: 'Roboto Slab', serif;
+}
+
+h3 {
+  color: teal;
+  font-family: 'Roboto Slab', serif;
+}
+
+h4 {
+  color: teal;
+  font-family: 'Roboto Slab', serif;
+}
+
+h5 {
+    color: darkorange;
+    background-color: white;
+    display: inline-block;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+}
+
+
+/* Código inline resaltado */
+code {
+  background-color: #fff0e0;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: "Fira Code", monospace;
+}
+
+/* Bloques tipo nota */
+.note {
+  background: #fffbe6;
+  border-left: 5px solid #ffcc00;
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+/* Botones cálidos */
+button, .btn {
+  background-color: #ff9800;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 6px 12px;
+  border: none;
+}
+
+/* Navbar sin fondo oscuro */
+.navbar {
+  background-color: #ffffff !important;
+  box-shadow: none;
+  border-bottom: 1px solid #eee;
+}
+
+/* Enlaces de menú */
+.navbar a, .nav-link, .navbar-brand {
+  color: #444 !important;
+  font-weight: 600;
+}
+
+/* Sidebar opcional */
+.sidebar nav {
+  background-color: #fff8dc;
+}
